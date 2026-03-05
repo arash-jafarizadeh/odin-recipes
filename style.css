@@ -1,0 +1,48 @@
+
+body {
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  font-family: Roboto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+img {
+  width: 400px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.header,
+.footer {
+    background-color: #1F2937;
+    color: #e5e7eb;
+    padding: 16px;
+    font-size: 18px;
+    display: flex;
+}
+
+.header {
+    justify-content: space-between;
+}
+
+.footer {
+    justify-content: center;
+}
+
+#header-type {
+    background-color: #1F2937;
+}
+
+#quot-type {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 300;
+}

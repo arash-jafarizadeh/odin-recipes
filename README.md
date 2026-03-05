@@ -17,4 +17,7 @@ I am turning this into a landing page as part of the Odin Project Assignment. Th
 -- using flex boxes
 -- adding some extra content 
 
-The final result should look like the ![image](https://raw.githubusercontent.com/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png).
+The final result should look like the ![image](https://raw.githubusercontent.com/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png  | width=50).
+Colors and fonts are given by
+
+![](https://raw.githubusercontent.com/TheOdinProject/curriculum/02f3babb44a3d30dccdf6ca30283ac64ec02abbd/foundations/html_css/flexbox/project-landing-page/imgs/02.png | width=50)
